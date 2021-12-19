@@ -1,6 +1,6 @@
 -  Hi, I’m @AbdullahMQ1998
 -  I’m interested in Programming and Computer hardware parts
--  I’m currently learning Web Development
+-  I’m currently Mobile Application Developer and I am learning Web Development.
 -  You can contact me in:
 -  Linkednin : https://www.linkedin.com/in/abdullahmaq/
 -   Twitter : @AbdullahMQ19
